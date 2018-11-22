@@ -1,6 +1,6 @@
-import Vue from 'vue'
-import App from './App.vue'
-import store from './store'
+import Vue from 'vue';  // Isf script & cdn.
+import App from './App.vue';  // ./ = den här katalogen.
+import store from './store'; // Vi behöver inte skriva .js
 
 Vue.config.productionTip = false
 
